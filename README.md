@@ -11,3 +11,5 @@ __abcdefghijklmnopqrstuvwxyz__
 | `relative` | 요소 자신을 기준으로 배치 |  |
 | `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
 | `fixed` | 브라우저 창을 기준으로 배치 |  |
+
+s
