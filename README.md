@@ -1,4 +1,4 @@
 # testgithub
 
 <pre> testgithub </pre>
-<a>naver.com</a>
+<a>https://naver.com</a>
