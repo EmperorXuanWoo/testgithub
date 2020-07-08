@@ -2,5 +2,5 @@
 
 <pre> testgithub </pre>
 
-<__>abcdefghigklmnopqrstuvswxyz
-<*>Dasdasdasd
+<__>abcdefghigklmnopqrstuvswxyz<__>
+<*>Dasdasdasd<*>
